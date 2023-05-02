@@ -1,0 +1,65 @@
+.navigation{
+float: right;
+height: 100%;
+}
+
+.navigation a{
+height: 100%;
+display: table;
+float: left;
+padding: 0px 100px;
+background-color: #101010;
+}
+
+.navigation a li{
+vertical-align: middle;
+display: table-cell;
+font-size: 30px;
+color: #66ff00;
+}
+
+.navigation a:hover{
+background-color: red;
+color: #101010;
+}
+
+#hed {
+color: #66ff00;
+background-color: black;
+margin-bottom: -1%;
+padding: 10px;
+}
+
+#ht {
+color: #66ff00;
+background-color: black;
+padding: 100px;
+}
+
+#list {
+color: #66ff00;
+background-color: black;
+margin-left: 10%;
+
+
+}
+
+#text {
+padding: 10px;
+font-size: 200%;
+color: #66ff00;
+}
+
+#hr {
+color: #66ff00
+}
+
+#i {
+padding: -10px;
+font-size: 200%;
+color: #66ff00;
+}
+
+#f {
+font-size: 20%;
+}
