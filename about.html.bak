@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="styles/MyStyle.css" />
+
+<div class="header">
+        <div class="inner-header">
+            <div class="logo-container" id="hed">
+                <h1>Моё хобби</h1>
+            </div>
+ 
+            <ul class="navigation" id="list">
+                <a href="index.html" title="Первая страница сайта"><li>Главная</li></a>
+                <a href="#" title="Здесь можно немного узнать про меня"><li>Обо мне</li></a>
+                <a href="contacts.html" title="А тут написано, как со мной связаться"><li>Обратная связь</li></a>
+            </ul>
+        </div>
+</div>
+</head>
+<body style="background:black">
+<img src="images/ypDzgbflHB8.jpg" width=" 300" height=" 400" id ="img">
+
+<p id="im">Здравствуйте! Это я. Меня зовут Тимур, я увлекаюсь музыкой, компьютерными играми, немного футболом и прогулками. Так же я пытаюсь учитсья на програмиста. Ведь жизнь не стоит на месте. Как бы много всего хотелось успеть! </p>
+</body>
